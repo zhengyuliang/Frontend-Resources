@@ -1,4 +1,4 @@
-#Koala With Frontend Development Resources 
+zhengyuliang 从收集及网上获得总结
 
 
 下面的资料都是我平时收集的一些前端资源。有些资料可能不属于前端，纯属收藏来着，喜欢就拿走。^_^
@@ -100,11 +100,13 @@
 
 ---
 
-######FONT 字体
+######FONT 字体 字体图标
 
 * [Browse Fonts] (https://www.fontfont.com/fonts) 提供了非常多的字体浏览。
 * [ICOMOON] (http://icomoon.io/#home) 字体图标
 * [FONTPREP] (http://fontprep.com/) 修改字体
+* [ionicons] (http://ionicons.com)字体图标
+* [fontawesome] (http://fontawesome.io/icons/)字体图标
 
 ---
 
